@@ -46,9 +46,9 @@ module.exports.run = async function ({ api, event, args, Users, Threads }) {
 │
 ├─ 👑 𝗡𝗮𝗺𝗲 : 𝐅𝐀𝐇𝐈𝐌 𝐀𝐇𝐌𝐄𝐃
 ├─ 📲 𝗙𝗮𝗰𝗲𝗯𝗼𝗼𝗸 :
-│ facebook.com/61552217656504
+│ facebook.com/61589092769391
 ├─ 💌 𝗠𝗲𝘀𝘀𝗲𝗻𝗴𝗲𝗿 :
-│ m.me/61552217656504
+│ m.me/61589092769391
 ├─ 📞 𝗪𝗵𝗮𝘁𝘀𝗔𝗽𝗽 :
 │ wa.me/+8801771240377
 │

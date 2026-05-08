@@ -71,7 +71,7 @@ module.exports = {
 
     } catch (error) {
       console.error("Uptime command error:", error);
-      await api.sendMessage("call admin sahu", event.threadID);
+      await api.sendMessage("call admin 𝐅𝐀𝐇𝐈𝐌", event.threadID);
     }
   }
 };

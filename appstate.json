@@ -1,1 +1,137 @@
-এখানের টেক্সট গুলো কেটে আপনার ফেসবুক আইডির কুকি বসান ✅
+[
+    {
+        "key": "dbln",
+        "value": "%7B%2261588704917179%22%3A%22UCb08UUM%22%7D",
+        "domain": "facebook.com",
+        "path": "/login/device-based/",
+        "hostOnly": false,
+        "creation": "2026-05-08T09:41:36.721Z",
+        "lastAccessed": "2026-05-08T09:41:36.721Z"
+    },
+    {
+        "key": "datr",
+        "value": "StD4aXlC2Mjr2CKbFvwgd6Ds",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2026-05-08T09:41:36.721Z",
+        "lastAccessed": "2026-05-08T09:41:36.721Z"
+    },
+    {
+        "key": "sb",
+        "value": "StD4aawl63QtyzORxMVeXP0_",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2026-05-08T09:41:36.721Z",
+        "lastAccessed": "2026-05-08T09:41:36.721Z"
+    },
+    {
+        "key": "locale",
+        "value": "en_US",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2026-05-08T09:41:36.721Z",
+        "lastAccessed": "2026-05-08T09:41:36.721Z"
+    },
+    {
+        "key": "pas",
+        "value": "61588704917179%3AMwqMAc5RJ0",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2026-05-08T09:41:36.721Z",
+        "lastAccessed": "2026-05-08T09:41:36.721Z"
+    },
+    {
+        "key": "vpd",
+        "value": "v1%3B688x360x3",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2026-05-08T09:41:36.721Z",
+        "lastAccessed": "2026-05-08T09:41:36.721Z"
+    },
+    {
+        "key": "ps_l",
+        "value": "1",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2026-05-08T09:41:36.721Z",
+        "lastAccessed": "2026-05-08T09:41:36.721Z"
+    },
+    {
+        "key": "ps_n",
+        "value": "1",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2026-05-08T09:41:36.721Z",
+        "lastAccessed": "2026-05-08T09:41:36.721Z"
+    },
+    {
+        "key": "m_pixel_ratio",
+        "value": "3",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2026-05-08T09:41:36.721Z",
+        "lastAccessed": "2026-05-08T09:41:36.721Z"
+    },
+    {
+        "key": "wd",
+        "value": "360x820",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2026-05-08T09:41:36.721Z",
+        "lastAccessed": "2026-05-08T09:41:36.721Z"
+    },
+    {
+        "key": "c_user",
+        "value": "61588704917179",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2026-05-08T09:41:36.721Z",
+        "lastAccessed": "2026-05-08T09:41:36.721Z"
+    },
+    {
+        "key": "xs",
+        "value": "22%3Ao7wivOYhZDG4kA%3A2%3A1778233291%3A-1%3A-1",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2026-05-08T09:41:36.721Z",
+        "lastAccessed": "2026-05-08T09:41:36.722Z"
+    },
+    {
+        "key": "oo",
+        "value": "v1%7C3%3A1778233293",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2026-05-08T09:41:36.722Z",
+        "lastAccessed": "2026-05-08T09:41:36.722Z"
+    },
+    {
+        "key": "fbl_st",
+        "value": "101415764%3BT%3A29637221",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2026-05-08T09:41:36.722Z",
+        "lastAccessed": "2026-05-08T09:41:36.722Z"
+    },
+    {
+        "key": "wl_cbv",
+        "value": "v2%3Bclient_version%3A3158%3Btimestamp%3A1778233293",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2026-05-08T09:41:36.722Z",
+        "lastAccessed": "2026-05-08T09:41:36.722Z"
+    }
+]
